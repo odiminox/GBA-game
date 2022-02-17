@@ -1,5 +1,5 @@
 # GBA-game
-Small demo game concept for the Game boy Advance written in C and ARM assembly
+Small demo game concept for the Game boy Advance written in C and ARM assembly I wrote a while ago
 
 Top-down game concept inspired by NES Metal Gear
 
